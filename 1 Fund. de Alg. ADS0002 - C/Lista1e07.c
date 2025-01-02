@@ -2,9 +2,6 @@
     Elaborar um algoritmo que efetue a apresentação do valor da conversão em 
     real (R$) de um valor lido em dolar (US$). O algoritmo deverá solicitar o 
     valor da cotação do dólar e também a quantidade de dólares disponíveis com o usuário.
-
-mensagem = f''
-print(mensagem)
 */
 
 #include <stdio.h>

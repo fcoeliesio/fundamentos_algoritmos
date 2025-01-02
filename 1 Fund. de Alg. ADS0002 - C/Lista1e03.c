@@ -1,11 +1,7 @@
 /*
-Escrever um algoritmo para determinar o consumo médio de um automóvel 
-sendo fornecida a distância total percorrida pelo automóvel e o total 
-gasto de combustível.
-
-consumo  = float(input(''))/float(input(''))
-
-print(f'')
+    Escrever um algoritmo para determinar o consumo médio de um automóvel 
+    sendo fornecida a distância total percorrida pelo automóvel e o total 
+    gasto de combustível.
 */
 
 #include <stdio.h>
