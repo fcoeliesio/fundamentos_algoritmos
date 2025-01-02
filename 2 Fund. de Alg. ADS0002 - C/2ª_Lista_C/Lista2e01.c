@@ -13,12 +13,10 @@
 
 float nota(int i) {
     float nota;
-    printf("Digite a %dª nota: ", i + 1);
-    scanf("%f", &nota);
-    while (nota < 0 || nota > 10) {
+    do {
         printf("Digite a %dª nota [0-10]: ", i + 1);
         scanf("%f", &nota);
-    }
+    } while (nota < 0 || nota > 10);
     return nota;
 }
 
